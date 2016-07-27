@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[SOPHI Global]]></title>
         <description><![CDATA[SOPHI Global]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sophi-global/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 18:08:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jul 2016 18:10:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sophi-global/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The SOPHI Way]]></title>
+            <description><![CDATA[<article><h1>The SOPHI Way</h1><p>We are dot-connectors and problem solvers. </p></article>]]></description>
+            <link>https://thegrid.ai/sophi-global/the-sophi-way/index.html</link>
+            <guid isPermaLink="false">2f881f19-7615-43b9-bb8a-fbf2a0a6df90</guid>
+            <pubDate>Wed, 27 Jul 2016 18:10:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Next Generation Parking Solution]]></title>
             <description><![CDATA[<article><h1>The Next Generation Parking Solution</h1><h2>Mobile Requests & Payments</h2><p>The ultimate convenience in valet parking. Guests can request vehicles, manage payments, and complete surveys all from their mobile phone.</p></article>]]></description>
-            <link>undefinedthe-next-generation-parking-solution/index.html</link>
+            <link>https://thegrid.ai/sophi-global/the-next-generation-parking-solution/index.html</link>
             <guid isPermaLink="false">112bb2cb-8751-45ff-80ff-ef86d7627208</guid>
             <pubDate>Wed, 27 Jul 2016 18:08:03 GMT</pubDate>
         </item>

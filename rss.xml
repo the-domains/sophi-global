@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SOPHI Global]]></title>
+        <description><![CDATA[SOPHI Global]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Jul 2016 18:08:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Next Generation Parking Solution]]></title>
+            <description><![CDATA[<article><h1>The Next Generation Parking Solution</h1><h2>Mobile Requests & Payments</h2><p>The ultimate convenience in valet parking. Guests can request vehicles, manage payments, and complete surveys all from their mobile phone.</p></article>]]></description>
+            <link>undefinedthe-next-generation-parking-solution/index.html</link>
+            <guid isPermaLink="false">112bb2cb-8751-45ff-80ff-ef86d7627208</guid>
+            <pubDate>Wed, 27 Jul 2016 18:08:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

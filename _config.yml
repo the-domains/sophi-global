@@ -1,6 +1,6 @@
 name: SOPHI Global
 favicon: null
-layout_spectrum: 0.20706667192280293
+layout_spectrum: 0
 typography_spectrum: 0.5305550175253302
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.8391323059331626
-  lightness: 0.5983169183600694
-  saturation: 0.8030360091943294
-  rhythmicContrast: 0.692590479971841
+  brandStrength: 0.75
+  lightness: 0.1875
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
